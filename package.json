@@ -1,0 +1,27 @@
+{
+  "name": "turkish-numbers",
+  "version": "1.0.0",
+  "description": "Converts numbers between 0 and 99 to Turkish words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlmgnc/turkish-numbers.git"
+  },
+  "keywords": [
+    "Spelling"
+  ],
+  "author": "Hilmi Genc <hlmgnc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hlmgnc/turkish-numbers/issues"
+  },
+  "homepage": "https://github.com/hlmgnc/turkish-numbers#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
